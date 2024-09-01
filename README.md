@@ -10,9 +10,9 @@ Project: To Do List
 Introduction:
 TODO list is a simple web application designed to add the task and completed the task we can mark that task as completed. It utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing interface. The app displays the tasks.
 # Technologies Used
-HTML5
-CSS3
-JavaScript
+HTML5,
+CSS3,
+JavaScript,
  
 ## Features
 - ADD Task
